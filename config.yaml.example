@@ -1,0 +1,4 @@
+bot_token: "1234567890:112233445566778899aaaBBBcccDDDeeeFFF"
+chat_id: 987654321
+listen: ":8080"
+web_path: "/webhook"
